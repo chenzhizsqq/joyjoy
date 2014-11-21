@@ -1,0 +1,4 @@
+2013-09-13 3:58:57 - PHP Notice:  Error: Could not load controller module/pavblogcategory! in D:\brainos_xampp\xampp\htdocs\opencart\v1.5.6\pav_plaza\system\engine\controller.php on line 47
+2014-11-17 2:54:22 - PHP Notice:  Error: Could not load language de_DE! in /Applications/XAMPP/xamppfiles/htdocs/plaza/system/library/language.php on line 39
+2014-11-17 2:54:32 - PHP Notice:  Error: Could not load language de_DE! in /Applications/XAMPP/xamppfiles/htdocs/plaza/system/library/language.php on line 39
+2014-11-17 2:54:33 - PHP Notice:  Error: Could not load language french! in /Applications/XAMPP/xamppfiles/htdocs/plaza/system/library/language.php on line 39
